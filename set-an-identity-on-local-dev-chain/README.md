@@ -4,8 +4,7 @@ Register an account’s identity on your local node-template chain. Add as many 
 ### [INTERMEDIATE CHALLENGE] FRAME Identity: Set an identity on a local --dev chain
 
 ### Submission requirements:
-
-
+<br/><br/>
 ![Frame_Dev_ID](Frame_Dev_ID.png)
 ![local-node](local-node.png)
 
