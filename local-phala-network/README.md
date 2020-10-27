@@ -7,10 +7,10 @@ You will try the privacy-preserving “secret tokens” feature on your own loca
 
 ### Submission requirements:
 
+![user-issued-secret-token](user-issued-secret-token.png)
 ![phala-node](phala-node.png)
 ![phost](phost.png)
 ![pruntime](pruntime.png)
-![user-issued-secret-token](user-issued-secret-token.png)
 
 <p align="center">
   [Click to see my tweet](https://twitter.com/s5k361996/status/1321165480401408000).
