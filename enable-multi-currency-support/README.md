@@ -6,7 +6,7 @@ Substrate by default only supports a single token. We've developed an open runti
 ### Submission requirements:
  Submit the runtime including the orml-token pallet, bonus is to add and issue your custom token.
 <br/></br>
- > **node-template contains the code for the modified substrate node with the orml-tokens pallet.**
+ > **node-template contains the code for the modified substrate node with the orml-tokens pallet.**<br/>
  > Runtime: <a href = "https://github.com/s5k0651/hello-world-by-polkadot/tree/master/enable-multi-currency-support/substrate-node-template/runtime"> Click here to see the runtime including the orml-token pallet </a>
 <br/><br/>
 ### mint token
