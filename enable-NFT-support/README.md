@@ -13,12 +13,12 @@ Substrate by default only supports a single fungible token. We've developed an o
 ![CreateNftClass](CreateNftClass.png)<br/>
 ### Query NFT Class
 ![QueryNftClass](QueryNftClass.png)<br/>
-### Mint NFT token (Bob)
+### Mint NFT (Bob)
 ![MintNftToken](MintNftToken.png)<br/>
-### Query NFT token (Owner_Bob)
+### Query NFT (Owner_Bob)
 ![QueryNftToken_OwnerBob](QueryNftToken_OwnerBob.png)<br/>
-### Transfer NFT token (Bob --> Alice)
+### Transfer NFT (Bob --> Alice)
 ![TranferNftToken](TranferNftToken.png)<br/>
-### Query NFT token (Owner_Alice)
+### Query NFT (Owner_Alice)
 ![QueryNftToken_OwnerAlice](QueryNftToken_OwnerAlice.png)<br/>
 
