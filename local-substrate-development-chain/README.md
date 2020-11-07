@@ -4,8 +4,8 @@ Use the Substrate<a href="https://github.com/substrate-developer-hub/substrate-n
 
 ### Submission requirements:
 Provide a screenshot that shows the finalized transaction.
-<br/><br/>
-![transfer_alice_to_ferdie](transfer_alice_to_ferdie.png)
-<br/><br/>
-![remark_onchain_local](remark_onchain_local.png)
+### transfer 5 Units from Alice to Ferdie
+<br/>![transfer_alice_to_ferdie](transfer_alice_to_ferdie.png)
+### on-chain remark with my github username
+<br/>![remark_onchain_local](remark_onchain_local.png)
 
