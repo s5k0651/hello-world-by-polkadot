@@ -4,7 +4,7 @@ Polkadot Hackathon Submissions:
 
 1. [[BEGINNER CHALLENGE] Launch A Local Substrate Development Chain](https://github.com/s5k0651/hello-world-by-polkadot/tree/master/local-substrate-development-chain)
 2. [[BEGINNER CHALLENGE] Run A Private Substrate Network](https://github.com/s5k0651/hello-world-by-polkadot/tree/master/private-substrate-network)
-3. [[BEGINNER CHALLENGES] Play With Westend]()
+3. [[BEGINNER CHALLENGES] Play With Westend](https://westend.subscan.io/extrinsic/2972906-2)
 4. [[BEGINNER CHALLENGES] Front-End Javascript]()
 5. [[BEGINNER CHALLENGES] Back-End Javascript]()
 6. [[BEGINNER CHALLENGE] Run A Kusama Or Polkadot Node And Add It To Telemetry]()
