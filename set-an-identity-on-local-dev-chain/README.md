@@ -4,6 +4,7 @@ Register an account’s identity on your local node-template chain. Add as many 
 ### [INTERMEDIATE CHALLENGE] FRAME Identity: Set an identity on a local --dev chain
 
 ### Submission requirements:
+**By mistake I've submitted my DOT address, KSM address is - CzpMsbhqvc2q3Cy2C4fW9SvBZUYe8dqWGKhhNduv4Ufk3gi**
 <br/><br/>
 ![Frame_Dev_ID](Frame_Dev_ID.png)<br/>
 ![local-node](local-node.png)
