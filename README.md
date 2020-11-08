@@ -1,4 +1,4 @@
-Polkadot Hackathon Submissions:
+Polkadot Hello World Hackathon Submissions:
 * Polkadot address : `1RVqtWu5LraWvQ3D8JckLv4tbBxXmNo8PDSU1MJzMHhB9Vs`
 * Kusama address   : `CzpMsbhqvc2q3Cy2C4fW9SvBZUYe8dqWGKhhNduv4Ufk3gi`
 
