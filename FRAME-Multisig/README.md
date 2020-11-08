@@ -14,7 +14,7 @@ Add the <a href="https://substrate.dev/rustdocs/v2.0.0-rc6/pallet_multisig/index
 </br>![front-end-call](front-end-call.png)
 ### finalized block hash
 </br>![block_hash](block_hash.png)
-### multisig acc -USHA
+### multisig acc - USHA
 </br>![multisig_01](multisig_01.png)
 ### transfere funds to the multisig ACC
 </br>![multisig_02](multisig_02.png)
@@ -30,5 +30,5 @@ Add the <a href="https://substrate.dev/rustdocs/v2.0.0-rc6/pallet_multisig/index
 </br>![multisig_07](multisig_07.png)
 ### transfer multisign event executed
 </br>![multisig_08](multisig_08.png)
-### updated wallet of DAVE after 2-threshold signatories
+### updated balance of DAVE after 2-threshold signatories
 </br>![multisig_09](multisig_09.png)
