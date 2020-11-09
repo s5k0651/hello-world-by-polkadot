@@ -21,4 +21,4 @@ Polkadot Hello World Hackathon Submissions:
 17. [[ECOSYSTEM CHALLENGE] Using Remix And MetaMask On Moonbeam]()
 18. [[ECOSYSTEM CHALLENGE] Deploy On Moonbase Alpha Using Truffle](https://github.com/s5k0651/hello-world-by-polkadot/tree/master/deploy-on-moonbase-alpha-using-truffle)
 19. [[ECOSYSTEM CHALLENGE] (Beginner) Build And Run A Local Phala Network](https://github.com/s5k0651/hello-world-by-polkadot/tree/master/local-phala-network)
-20. [[ADVANCED CHALLENGE] REST APIs - Read An Account's Pending Payouts]()
+20. [[ADVANCED CHALLENGE] REST APIs - Read An Account's Pending Payouts](https://github.com/s5k0651/hello-world-by-polkadot/tree/master/read-acc-pending-payouts)
