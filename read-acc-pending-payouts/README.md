@@ -6,7 +6,8 @@ Read an account's <a href="https://github.com/paritytech/substrate-api-sidecar/b
  > [link to the GitHub repository](https://github.com/s5k0651/hello-world-by-polkadot/blob/master/read-acc-pending-payouts/index.js)</br>
 
 ### Clone the polkadot repository
- > [polkadot-node](https://github.com/paritytech/polkadot)
+ > [Polkadot Node](https://github.com/paritytech/polkadot)</br></br>
+ > Run
 ``` 
 ./scripts/init.sh
 cargo build --release
@@ -15,15 +16,13 @@ cargo build --release
 ```
 ./target/release/polkadot --chain=kusama
 ```
-
 ### Clone the sidecar instance
- > [sidecar-instance](https://github.com/paritytech/substrate-api-sidecar.git)</br>
- > Create .env.kusama file with SAS_SUBSTRATE_WS_URL=wss://kusama-rpc.polkadot.io within this directory.</br>
+ > [Substrate API Sidecar](https://github.com/paritytech/substrate-api-sidecar.git)</br></br>
+ > Create .env.kusama file with SAS_SUBSTRATE_WS_URL=wss://kusama-rpc.polkadot.io within this directory.</br></br>
  > Run the service with:
 ```
 NODE_ENV=kusama yarn start
 ```
-
 ### Get any validator address from <a href="https://kusama.subscan.io/validator/"> here </a> to check its pending payouts with :
 ```
 node index.js [address] [depth]
