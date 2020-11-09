@@ -13,7 +13,7 @@ Add the <a href="https://substrate.dev/rustdocs/v2.0.0-rc6/pallet_multisig/index
 ![front-end-call](front-end-call.png)
 ### Finalized Block Hash
 ![block_hash](block_hash.png)
-### Multisig acc - USHA
+### Multisig Acc - USHA
 ![multisig_01](multisig_01.png)
 ### Transfere Funds to the Multisig ACC
 ![multisig_02](multisig_02.png)
