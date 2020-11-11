@@ -6,12 +6,20 @@
 
 use frame_support::{decl_module, decl_storage, decl_event, decl_error, dispatch, traits::Get};
 use frame_system::ensure_signed;
+use frame_support::codec::{Encode, Decode};
+use frame_support::traits::Vec;
 
 #[cfg(test)]
 mod mock;
 
 #[cfg(test)]
 mod tests;
+
+#[derive(Encode, Decode, Default, Clone, PartialEq, Eq, Debug)]
+pub struct MarvelComicsStruct {
+    charc_name: Vec<u8>,
+    charc_class: Vec<u8>,
+}
 
 /// Configure the pallet by specifying the parameters and types on which it depends.
 pub trait Trait: frame_system::Trait {
@@ -29,6 +37,7 @@ decl_storage! {
 		// Learn more about declaring storage items:
 		// https://substrate.dev/docs/en/knowledgebase/runtime/storage#declaring-storage-items
 		Something get(fn something): Option<u32>;
+		CharcData get(fn charc_data): MarvelComicsStruct;
 	}
 }
 
@@ -39,6 +48,7 @@ decl_event!(
 		/// Event documentation should end with an array that provides descriptive names for event
 		/// parameters. [something, who]
 		SomethingStored(u32, AccountId),
+		AddMarvelComicsStruct(MarvelComicsStruct, AccountId),	
 	}
 );
 
@@ -78,6 +88,20 @@ decl_module! {
 			// Emit an event.
 			Self::deposit_event(RawEvent::SomethingStored(something, who));
 			// Return a successful DispatchResult
+			Ok(())
+		}
+		
+		#[weight = 10_000 + T::DbWeight::get().writes(1)]
+		pub fn store_marvel_characters(origin, marvel_struct: MarvelComicsStruct) -> dispatch::DispatchResult {
+			let who = ensure_signed(origin)?;
+			
+			// Update storage.
+			CharcData::put(marvel_struct.clone());	
+
+			// Emit an event.
+			Self::deposit_event(RawEvent::AddMarvelComicsStruct(marvel_struct, who));
+			// Return a successful DispatchResult
+
 			Ok(())
 		}
 
