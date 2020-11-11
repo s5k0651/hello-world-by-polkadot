@@ -7,7 +7,6 @@ Add the <a href="https://substrate.dev/rustdocs/v2.0.0-rc6/pallet_multisig/index
  [link to the GitHub repository](https://github.com/s5k0651/hello-world-by-polkadot/tree/master/FRAME-Multisig)</br>
  [link to the Runtime](https://github.com/s5k0651/hello-world-by-polkadot/tree/master/FRAME-Multisig/substrate-node-template/runtime)</br>
  [link to the multisig UI component](https://github.com/s5k0651/hello-world-by-polkadot/blob/master/FRAME-Multisig/substrate-front-end-template/src/MultisigComponent.js)</br>
- [link to the Polkadot-JS script to make a multisig transaction](https://github.com/s5k0651/hello-world-by-polkadot/blob/master/FRAME-Multisig/substrate-front-end-template/src/Interactor.js)</br>
  
 ### Frontend Call
 ![front-end-call](front-end-call.png)
