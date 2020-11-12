@@ -8,7 +8,7 @@ Polkadot Hello World Hackathon Submissions:
 4. [[BEGINNER CHALLENGES] Front-End Javascript](https://github.com/s5k0651/dotNetworkBlockInfo)
 5. [[BEGINNER CHALLENGES] Back-End Javascript](https://github.com/s5k0651/hello-world-by-polkadot/tree/master/dotNetworkBlockInfo_backendJS)
 6. [[BEGINNER CHALLENGE] Run A Kusama Or Polkadot Node And Add It To Telemetry](https://github.com/s5k0651/hello-world-by-polkadot/tree/master/dotNode-telemetry)
-7. [[BEGINNER CHALLENGE] Set An Identity On Kusama Or Polkadot's Development Version]()
+7. [[BEGINNER CHALLENGE] Set An Identity On Kusama Or Polkadot's Development Version](https://github.com/s5k0651/hello-world-by-polkadot/tree/master/set-an-identity-on-polkadot-dev-chain)
 8. [[BEGINNER CHALLENGE] Deploying Solidity Contract On Plasm Network V1](https://github.com/s5k0651/hello-world-by-polkadot/tree/master/deploy-sol-contract-plasm-network-v1)
 9. [[INTERMEDIATE CHALLENGE] FRAME Identity: Set An Identity On A Local --Dev Chain](https://github.com/s5k0651/hello-world-by-polkadot/tree/master/set-an-identity-on-local-dev-chain)
 10. [[INTERMEDIATE CHALLENGE] Smart Contracts - Write An ERC-20 Smart Contract With Ink!](https://github.com/s5k0651/hello-world-by-polkadot/tree/master/ERC20-smart-contract-with-ink)
