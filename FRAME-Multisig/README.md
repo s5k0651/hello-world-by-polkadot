@@ -10,7 +10,7 @@ Add the <a href="https://substrate.dev/rustdocs/v2.0.0-rc6/pallet_multisig/index
  
 ### Frontend Call
 ![front-end-call](front-end-call.png)
-### Finalized Block Hash
+### Block Details
 ![block_hash](block_hash.png)
 ### Multisig Acc - USHA
 ![multisig_01](multisig_01.png)
