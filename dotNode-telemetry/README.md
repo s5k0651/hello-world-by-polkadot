@@ -6,10 +6,10 @@
 
 #### Polkadot Node (node name : s5k0651)
 ![node](node.png)
-#### Node Telemetry (synced till block #265661)
+#### Node Telemetry (synced till block #265661) (node name : s5k0651)
 ![node-telemetry1](node-telemetry1.png)
-#### Node Telemetry (synced till block #290124)
+#### Node Telemetry (synced till block #290124) (node name : s5k0651)
 ![node-telemetry2](node-telemetry2.png)
 
-### Note
-**It will take around 1 day to get fully synced.**
+#### Note
+**It will take at least a day to get fully synced. 😃**
