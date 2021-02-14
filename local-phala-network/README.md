@@ -6,10 +6,17 @@ You will try the privacy-preserving “secret tokens” feature on your own loca
 ### Build And Run A Local Phala Network
 
 ### Submission requirements:
+  > Take a screenshot of your user-issued secret token.
+  > Take screenshots of the terminal window with the running core blockchain (phala-node, pruntime, and phost).
+  > Send the screenshot and share your feeling on Twitter.
 
+### user issued secret token
 ![user-issued-secret-token](user-issued-secret-token.png)
+### phala node
 ![phala-node](phala-node.png)
+### phost
 ![phost](phost.png)
+### pruntime
 ![pruntime](pruntime.png)
 
 <p align="center">
